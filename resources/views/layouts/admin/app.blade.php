@@ -159,7 +159,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
       Anything you want
     </div>
     <!-- Default to the left -->
-    <strong>Copyright &copy; 2023 <a href="https://adminlte.io">kristina putri saroan </a>.</strong> Teknologi Rekayasa Internet.
+    <strong>Copyright &copy; 2023 <a href="https://adminlte.io">Agung Hendi Temorubun </a>.</strong> Teknologi Rekayasa Internet.
   </footer>
 </div>
 <!-- ./wrapper -->
